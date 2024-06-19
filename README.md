@@ -43,14 +43,14 @@
 <p align="center">Cloud Services and Hosting:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
   </a>
 </p>
 
 <p align="center">Backend and Server-side Technologies:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,express&perline=3" />
+    <img src="https://skillicons.dev/icons?i=dotnet,express" />
   </a>
 </p>
 
