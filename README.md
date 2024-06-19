@@ -1,10 +1,8 @@
 ## Hi there 👋
-![ProgrammerGif](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)
-<div align="center">
-  <a href="#">
-    <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" alt="Typing SVG">
-  </a>
-</div>
+
+![umiko-ahagon-desktop-programming-eg5f8g2281ekfhde](https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293)
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express,vscode,visualstudio,vercel,tailwind,react,r,nodejs,nextjs,mysql,&perline=7" />
