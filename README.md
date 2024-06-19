@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">
+  Hi! I'm Zahra, welcome to my GitHub
+  <img
+    width="20px"
+    alt="Cat"
+    src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
+  />
+</h1>
 
 <div align="center">
 <img src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
