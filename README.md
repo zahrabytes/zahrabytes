@@ -18,8 +18,8 @@
 </div>
 
 <h2 align="center">I have experience with these technologies:</h2>
+<p align="center">Languages:</p>
 <p align="center">
-  Languages:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express,vscode,visualstudio,vercel,tailwind,react,r,nodejs,nextjs,mysql,&perline=7" />
   </a>
