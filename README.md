@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express" />
+    <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express&perline=5" />
   </a>
 </p>
 <!--
