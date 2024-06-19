@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div>
+<div align="center">
 <img src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
 </div>
 
