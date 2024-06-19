@@ -22,35 +22,35 @@
 <p align="center">Languages:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,nodejs,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,nodejs,&perline=3" />
   </a>
 </p>
 
 <p align="center">Frameworks and Libraries:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs,&perline=3" />
   </a>
 </p>
 
 <p align="center">Development Tools and Environments:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio,vercel,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio,vercel,&perline=3" />
   </a>
 </p>
 
 <p align="center">Cloud Services and Hosting:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,&perline=3" />
   </a>
 </p>
 
 <p align="center">Backend and Server-side Technologies:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,&perline=3" />
   </a>
 </p>
 
