@@ -12,12 +12,14 @@
   />
 </h1>
 
-<img align="center"
+<div align="center">
+<img 
   width="200px"
   src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
-
+</div>
 <h2 align="center">I have experience with these technologies:</h2>
 
+<div style="display: flex; flex-wrap: wrap;">
 <p align="center">Languages:</p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,6 +54,7 @@
     <img src="https://skillicons.dev/icons?i=dotnet,express"/>
   </a>
 </p>
+</div>
 
 <h2></h2>
 <!--
