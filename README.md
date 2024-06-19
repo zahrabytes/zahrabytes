@@ -18,12 +18,47 @@
 </div>
 
 <h2 align="center">I have experience with these technologies:</h2>
-<p align="center">Languages:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express,vscode,visualstudio,vercel,tailwind,react,r,nodejs,nextjs,mysql,&perline=7" />
   </a>
 </p>
+
+<p align="center">Languages:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,nodejs,&perline=7" />
+  </a>
+</p>
+
+<p align="center">Frameworks and Libraries:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs,&perline=7" />
+  </a>
+</p>
+
+<p align="center">Development Tools and Environments:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio,vercel,&perline=7" />
+  </a>
+</p>
+
+<p align="center">Cloud Services and Hosting:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,&perline=7" />
+  </a>
+</p>
+
+<p align="center">Backend and Server-side Technologies:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,&perline=7" />
+  </a>
+</p>
+
 <h2></h2>
 <!--
 **zahrabytes/zahrabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
