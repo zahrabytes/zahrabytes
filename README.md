@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ProgrammerGif](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,js,jquery,arduino,autocad,bootstrap,cpp,cs,cloudflare,css,html,htmx,dotnet,express,vscode,visualstudio,vercel,tailwind,react,r,nodejs,nextjs,mysql,&perline=7" />
