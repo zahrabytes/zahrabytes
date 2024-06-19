@@ -20,7 +20,7 @@
 <h2 align="center">I have experience with these technologies:</h2>
 <div align="center">
 
-| Languages                                                                                         | Frameworks and Libraries                                                                                      | Development Tools and Environments                                                                                       |
+| Languages                                                                                         | Frameworks and Libraries                                                                                      | Tools and Environments                                                                                       |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a></p> |
 
