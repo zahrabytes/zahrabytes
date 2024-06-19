@@ -20,15 +20,16 @@
 <h2 align="center">I have experience with these technologies:</h2>
 <div align="center">
 
-| Languages                                               | Frameworks and Libraries                                      | Development Tools and Environments                                |
-|---------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a> |
+| Languages                                                                                         | Frameworks and Libraries                                                                                      | Development Tools and Environments                                                                                       |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a></p> |
 
-| Cloud Services and Hosting                                | Backend and Server-side Technologies                           |
-|-----------------------------------------------------------|----------------------------------------------------------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>                        | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a>                         |
+| Cloud Services and Hosting                                                                        | Backend and Server-side Technologies                                                                           |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a></p> |
 
 </div>
+
 
 
 <h2></h2>
