@@ -18,11 +18,20 @@
   src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
 </div>
 <h2 align="center">I have experience with these technologies:</h2>
-| Languages                                               | Frameworks and Libraries                                      | Development Tools and Environments                                |
-|---------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a> |
-| Cloud Services and Hosting                                | Backend and Server-side Technologies                           |                                                                   |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>                        | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a>                         |                                                                   |
+| Languages                           | Frameworks and Libraries                     |
+|-------------------------------------|---------------------------------------------|
+| <p align="center">JavaScript, C++, C#, HTML, CSS, MySQL, R, Python, npm</p> | <p align="center">jQuery, Bootstrap, HTMX, .NET, Express, Tailwind CSS, React, Next.js</p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a></p> |
+
+| Development Tools and Environments  | Cloud Services and Hosting                  |
+|-------------------------------------|---------------------------------------------|
+| <p align="center">Arduino, AutoCAD, VSCode, Visual Studio</p> | <p align="center">Cloudflare</p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a></p> |
+
+| Backend and Server-side Technologies |
+|-------------------------------------|
+| <p align="center">.NET, Express</p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a></p> |
 
 <h2></h2>
 <!--
