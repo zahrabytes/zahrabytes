@@ -32,6 +32,17 @@
 </div>
 
 
+<div align="center">
+
+| Languages                                                                                         | Frameworks and Libraries                                                                                      | Development Tools and Environments                                                                                       |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a></p> |
+
+| Cloud Services and Hosting                                                                        | Backend and Server-side Technologies                                                                           |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a></p> | <p align="center"><a href="https://github.com/zahrabytes/zahrabytes/assets/146145027/c5c9dace-6626-4c4d-92c0-ec0166c6911f"><img src="https://github.com/zahrabytes/zahrabytes/assets/146145027/c5c9dace-6626-4c4d-92c0-ec0166c6911f" /></a></p> |
+
+</div>
 
 
 
