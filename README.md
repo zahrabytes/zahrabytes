@@ -22,7 +22,7 @@
 <p align="center">Languages:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" />
   </a>
 </p>
 
