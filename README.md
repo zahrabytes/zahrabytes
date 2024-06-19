@@ -50,7 +50,7 @@
 <p align="center">Backend and Server-side Technologies:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,&perline=3" />
+    <img src="https://skillicons.dev/icons?i=dotnet,express&perline=3" />
   </a>
 </p>
 
