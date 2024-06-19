@@ -18,12 +18,11 @@
   src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
 </div>
 <h2 align="center">I have experience with these technologies:</h2>
-
-| Languages                           | Frameworks and Libraries                     | Development Tools and Environments                |
-|-------------------------------------|---------------------------------------------|---------------------------------------------------|
+| Languages                                               | Frameworks and Libraries                                      | Development Tools and Environments                                |
+|---------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a> |
-| Cloud Services and Hosting          | Backend and Server-side Technologies         |                                                   |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a> |                                                   |
+| Cloud Services and Hosting                                | Backend and Server-side Technologies                           |                                                                   |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>                        | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a>                         |                                                                   |
 
 <h2></h2>
 <!--
