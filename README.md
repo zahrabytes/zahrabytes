@@ -26,11 +26,8 @@
 
 | Cloud Services and Hosting                                                                        | Backend and Server-side                                                                           |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a> <div><img 
-  width="200px"
-  src="https://github.com/zahrabytes/zahrabytes/assets/146145027/f09eb78a-03b4-4f02-9717-6f2c6200c792" style="display: block; margin: auto;"></div></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a></p> |
 
-![image](https://github.com/zahrabytes/zahrabytes/assets/146145027/f09eb78a-03b4-4f02-9717-6f2c6200c792)
 
 </div>
 
