@@ -19,42 +19,11 @@
 </div>
 <h2 align="center">I have experience with these technologies:</h2>
 
-<div style="display: flex; flex-wrap: wrap;">
-<p align="center">Languages:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" />
-  </a>
-</p>
-
-<p align="center">Frameworks and Libraries:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" />
-  </a>
-</p>
-
-<p align="center">Development Tools and Environments:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" />
-  </a>
-</p>
-
-<p align="center">Cloud Services and Hosting:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare"/>
-  </a>
-</p>
-
-<p align="center">Backend and Server-side Technologies:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,express"/>
-  </a>
-</p>
-</div>
+| Languages                           | Frameworks and Libraries                     | Development Tools and Environments                |
+|-------------------------------------|---------------------------------------------|---------------------------------------------------|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,mysql,r,python,npm&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery,bootstrap,htmx,dotnet,express,tailwind,react,nextjs&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,autocad,vscode,visualstudio&perline=4" /></a> |
+| Cloud Services and Hosting          | Backend and Server-side Technologies         |                                                   |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,express" /></a> |                                                   |
 
 <h2></h2>
 <!--
