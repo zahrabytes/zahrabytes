@@ -18,8 +18,10 @@
   src="https://github.com/zahrabytes/zahrabytes/assets/146145027/a1883792-3538-46db-bd76-ce385e3d7293" alt="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde" style="display: block; margin: auto;">
 </div>
 <h2 align="center">A Bit About Me...</h2>
-<p> 🔭 My interests are Embedded Systems, 3d Modeling, and Cyber Security </p>
+<p> 🔭 My interests are Embedded Systems, 3D Modeling, and Cyber Security </p>
 <p> 🌱 I’m currently learning Embedded Systems and Web Dev </p>
+<p> 🔭 I love hackathons, I have a 2/3 win ratio! </p>
+<p> 🌱 I don't believe in limiting yourself to one niche in technology </p>
 
 <h2 align="center">I have experience with these technologies:</h2>
 <div align="center">
