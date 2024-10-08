@@ -19,9 +19,9 @@
 </div>
 <h2 align="center">A Bit About Me...</h2>
 <p> 👩🏽‍🚀 I'm currently attending my internship at NASA
-<p> 💡 My interests are Embedded Systems, 3D Modeling, and Cyber Security </p>
+<p> 💡 My interests are Software Engineering, Databases, and Artificial Intelligence </p>
 <p> 📚 I’m learning Embedded Systems and Web Dev </p>
-<p> 💜 I love hackathons, I have a 2/3 win ratio! </p>
+<p> 💜 I love hackathons, I have a 3/4 win ratio! </p>
 <p> 🌱 I don't believe in limiting yourself to one niche in technology </p>
 
 <h2 align="center">I have experience with these technologies:</h2>
